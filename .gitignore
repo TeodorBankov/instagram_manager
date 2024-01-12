@@ -120,3 +120,6 @@ fonk.js
 
 .env
 pnpm-lock.yaml
+
+/videos
+/images
